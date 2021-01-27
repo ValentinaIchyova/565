@@ -1,4 +1,4 @@
-import React, {Component, useEffect, useState} from 'react';
+import React, {Component} from 'react';
 import './randomChar.css';
 import gotService from '../../services/gotServices';
 import { Spinner } from 'reactstrap';
